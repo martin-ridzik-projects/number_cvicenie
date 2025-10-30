@@ -1,4 +1,9 @@
-//Príklady s číslami (number) + doplnky
+// -------------------------------------------------
+// Príklady použitia typu number v JavaScripte
+// Popis: Základy práce s number hodnotami 
+// Celé a desatinné čísla, kladné/záporné exponenty, základné operácie, špeciálne hodnoty, 
+// kontrola typu, Number objekt, zaokrúhľovanie, náhodné čísla
+// -------------------------------------------------
 
 // (1.) Celé čísla (Integer) ---
 // Pre celé čísla platí, že môžu využívať kladné, záporné a 0
